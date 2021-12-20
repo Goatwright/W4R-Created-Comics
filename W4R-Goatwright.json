@@ -3,7 +3,7 @@
   "description": "These are all the comics I finished for War for Rayuba, the OCT (Original Character Tournament) ran by Abbadon of Kill Six Billion Demons. Some of these comics didn't win, so they're not all canon, but I wanted a full collection of all my own work! This also includes the collab comics I've done as well, and the artists I worked with are cited in the artists list. \n\nNote: I didn't compete in round 6 and round 8 I defaulted due to hospitalization via ulcer, so that's why they're missing! ",
   "artist": "@Goatwright ft. @Hisagium, @HawthornVisual, @Sleevelessdaddy, @MoidDoesArt and Skullbucket",
   "author": "",
-  "cover": "/proxy/api/imgur/mClgRtR",
+  "cover": "/proxy/api/imgur/gallery/mClgRtR",
   "chapters": {
     "1": {
       "title": "Introduction",
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1612207085",
       "groups": {
-        "": "/proxy/api/imgur/chapter/rQ1qfE2"
+        "": "/proxy/api/imgur/gallery/rQ1qfE2"
       }
     },
     "3": {
@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1616437658",
       "groups": {
-        "": "/proxy/api/imgur/chapter/3ZHxStc"
+        "": "/proxy/api/imgur/gallery/3ZHxStc"
       }
     },
     "5": {
@@ -50,7 +50,7 @@
       "volume": "",
       "last_updated": "1620844261",
       "groups": {
-        "": "/proxy/api/imgur/chapter/ibPgiEi"
+        "": "/proxy/api/imgur/gallery/ibPgiEi"
       }
     },
     "7": {
@@ -58,7 +58,7 @@
       "volume": "1",
       "last_updated": "1624041111",
       "groups": {
-        "": "/proxy/api/imgur/chapter/x7snsVt"
+        "": "/proxy/api/imgur/gallery/x7snsVt"
       }
     },
     "8": {
@@ -66,7 +66,7 @@
       "volume": "2",
       "last_updated": "1624041520",
       "groups": {
-        "": "/proxy/api/imgur/chapter/hQbAnGg"
+        "": "/proxy/api/imgur/gallery/hQbAnGg"
       }
     },
     "9": {
@@ -74,7 +74,7 @@
       "volume": "3",
       "last_updated": "1624041556",
       "groups": {
-        "": "/proxy/api/imgur/chapter/uyO2jIM"
+        "": "/proxy/api/imgur/gallery/uyO2jIM"
       }
     },
     "10": {
@@ -82,7 +82,7 @@
       "volume": "4",
       "last_updated": "1624041588",
       "groups": {
-        "": "/proxy/api/imgur/chapter/u4fJulT"
+        "": "/proxy/api/imgur/gallery/u4fJulT"
       }
     },
     "11": {
@@ -90,15 +90,15 @@
       "volume": "",
       "last_updated": "1629398499",
       "groups": {
-        "": "/proxy/api/imgur/chapter/hzvV2Za"
+        "": "/proxy/api/imgur/gallery/hzvV2Za"
       }
     },
     "12": {
       "title": "Round 9 - Terminus",
       "volume": "",
-      "last_updated": "1640029393",
+      "last_updated": "1637091793",
       "groups": {
-        "": "/proxy/api/imgur/chapter/eQSfbF2"
+        "": "/proxy/api/imgur/gallery/eQSfbF2"
       }
     }
   }
