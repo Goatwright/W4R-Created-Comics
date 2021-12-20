@@ -3,21 +3,14 @@
   "description": "These are all the comics I finished for War for Rayuba, the OCT (Original Character Tournament) ran by Abbadon of Kill Six Billion Demons. Some of these comics didn't win, so they're not all canon, but I wanted a full collection of all my own work! This also includes the collab comics I've done as well, and the artists I worked with are cited in the artists list. \n\nNote: I didn't compete in round 6 and round 8 I defaulted due to hospitalization via ulcer, so that's why they're missing! ",
   "artist": "@Goatwright ft. @Hisagium, @HawthornVisual, @Sleevelessdaddy, @MoidDoesArt and Skullbucket",
   "author": "",
-  "cover": "",
+  "cover": "https://i.imgur.com/mClgRtR.png",
   "chapters": {
     "1": {
       "title": "Introduction",
       "volume": "",
       "last_updated": "1612206728",
       "groups": {
-        "": [
-          "https://i.imgur.com/nqoqdDM.png",
-          "https://i.imgur.com/CSGcU2j.png",
-          "https://i.imgur.com/kvLlUIj.png",
-          "https://i.imgur.com/QMtqDS3.png",
-          "https://i.imgur.com/6OFgNxi.png",
-          "https://i.imgur.com/fFlDGE2.png"
-        ]
+        "": "/proxy/api/imgur/chapter/jW4graH"
       }
     },
     "2": {
@@ -25,9 +18,7 @@
       "volume": "",
       "last_updated": "1612207085",
       "groups": {
-        "": [
-          "https://imgur.com/a/rQ1qfE2"
-        ]
+        "": "/proxy/api/imgur/chapter/rQ1qfE2"
       }
     },
     "3": {
@@ -35,9 +26,7 @@
       "volume": "",
       "last_updated": "1614022017",
       "groups": {
-        "": [
-          "https://imgur.com/gallery/TybnZco"
-        ]
+        "": "/proxy/api/imgur/chapter/TybnZco"
       }
     },
     "4": {
@@ -45,9 +34,7 @@
       "volume": "",
       "last_updated": "1616437658",
       "groups": {
-        "": [
-          "https://imgur.com/a/3ZHxStc"
-        ]
+        "": "/proxy/api/imgur/chapter/3ZHxStc"
       }
     },
     "5": {
@@ -55,9 +42,7 @@
       "volume": "",
       "last_updated": "1618424925",
       "groups": {
-        "": [
-          "https://imgur.com/a/j0wF5D3"
-        ]
+        "": "/proxy/api/imgur/chapter/j0wF5D3"
       }
     },
     "6": {
@@ -65,9 +50,7 @@
       "volume": "",
       "last_updated": "1620844261",
       "groups": {
-        "": [
-          "https://imgur.com/a/ibPgiEi"
-        ]
+        "": "/proxy/api/imgur/chapter/ibPgiEi"
       }
     },
     "7": {
@@ -75,9 +58,7 @@
       "volume": "1",
       "last_updated": "1624041111",
       "groups": {
-        "": [
-          "https://imgur.com/a/x7snsVt"
-        ]
+        "": "/proxy/api/imgur/chapter/x7snsVt"
       }
     },
     "8": {
@@ -85,9 +66,7 @@
       "volume": "2",
       "last_updated": "1624041520",
       "groups": {
-        "": [
-          "https://imgur.com/a/hQbAnGg"
-        ]
+        "": "/proxy/api/imgur/chapter/hQbAnGg"
       }
     },
     "9": {
@@ -95,9 +74,7 @@
       "volume": "3",
       "last_updated": "1624041556",
       "groups": {
-        "": [
-          "https://imgur.com/a/uyO2jIM"
-        ]
+        "": "/proxy/api/imgur/chapter/uyO2jIM"
       }
     },
     "10": {
@@ -105,9 +82,7 @@
       "volume": "4",
       "last_updated": "1624041588",
       "groups": {
-        "": [
-          "https://imgur.com/a/u4fJulT"
-        ]
+        "": "/proxy/api/imgur/chapter/u4fJulT"
       }
     },
     "11": {
@@ -115,9 +90,7 @@
       "volume": "",
       "last_updated": "1629398499",
       "groups": {
-        "": [
-          "https://imgur.com/gallery/hzvV2Za"
-        ]
+        "": "/proxy/api/imgur/chapter/hzvV2Za"
       }
     },
     "12": {
@@ -125,9 +98,7 @@
       "volume": "",
       "last_updated": "1640029393",
       "groups": {
-        "": [
-          "https://imgur.com/a/eQSfbF2"
-        ]
+        "": "/proxy/api/imgur/chapter/eQSfbF2"
       }
     }
   }
